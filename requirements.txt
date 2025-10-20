@@ -1,0 +1,14 @@
+bs4
+pypdf
+requests
+streamlit
+python-dotenv
+sentence-transformers
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-github-copilot
+langchain-core
+langgraph
+ipython
