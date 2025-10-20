@@ -3,3 +3,4 @@ conda_venv
 __pycache__
 .venv
 Chinook.db
+data
